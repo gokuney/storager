@@ -1,0 +1,7 @@
+{   
+    "id"   : "localStorageAdapter",
+    "nickname" : "local",
+    "name" : "Local Storage Adapter",
+    "description" : "Adapter to manage local storage",
+    "version" : "1.0.0"
+}

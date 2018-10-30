@@ -1,0 +1,7 @@
+{   
+    "id"   : "networkStorageAdapter",
+    "nickname" : "network",
+    "name" : "Network Storage Adapter",
+    "description" : "Adapter to manage network storage(s)",
+    "version" : "1.0.0"
+}
